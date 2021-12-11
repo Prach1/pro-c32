@@ -1,1 +1,1 @@
-# pro-c32
+# Project Template 26
